@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Emergency</string>
-    <string name="hospital">Hospital</string>
-    <string name="blood">Blood Bank</string>
-    <string name="ambulance">Ambulance Service</string>
-    <string name="text1">Looking for a</string>
-    <string name="text2">in</string>
-    <string name="button">Close</string>
-</resources>
