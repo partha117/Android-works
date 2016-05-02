@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Response</string>
+    <string name="text1">Drug name</string>
+    <string name="text_1">Name of the drug you have taken</string>
+    <string name="text2">Cured?</string>
+    <string name="nextButton">Next</string>
+    <string name="submitButton">Submit</string>
+    <string name="text3">Symptoms</string>
+    <string name="rash">Rashes</string>
+    <string name="itch">Itching</string>
+    <string name="nausea">Nausea</string>
+    <string name="vomit">Vomiting</string>
+    <string name="dia">Diarrhoe</string>
+    <string name="head">Headaches</string>
+    <string name="blur">Blurred Vision</string>
+    <string name="others">Others</string>
+    <string name="subButton2">Submit</string>
+    <string name="diar">Diarrhoea</string>
+    <string name="rbyes">Yes</string>
+    <string name="rbNo">No</string>
+</resources>
