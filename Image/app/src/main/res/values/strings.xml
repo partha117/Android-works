@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Image</string>
+    <string name="Hint">এই প্রক্রিয়ায় মোট ১২ টি ধাপ রয়েছে সঠিকভাবে বর্ণান্ধতা নির্ণয়ের জন্য সবগুলো ধাপ সম্পন্ন করা প্রয়োজন।
+প্রত্যেক ধাপে আপনি ছবিতে কি দেখতে পাচ্ছেন (যদি কোন সংখ্যা হয়)তা বক্সে লিখুন অথবা (যদি কোন সংখ্যা দেখতে না পান)টিক চিহ্ন দিন।</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
